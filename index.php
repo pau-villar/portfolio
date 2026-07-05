@@ -27,7 +27,22 @@
     <section class="row my-4">
         <div class="col-12">
             <h2 class="fw-bold mb-4">Formación</h2>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, explicabo. Temporibus iusto assumenda iste dolor, odio nam impedit unde labore! Repellat corrupti excepturi, expedita saepe sapiente delectus laborum eius ipsum!
+            <div class="ms-3">
+                <div class="mb-4">
+                    <h5 class="fw-bold mb-1">Cursando Grado Superior en Desarrollo de Aplicaciones Webs</h5>
+                    <p>Instituto Pedralbes | 2025 - actual</p>
+                </div>
+
+                <div class="mb-4">
+                    <h5 class="fw-bold mb-1">Certificado de Grado Medio en Sistemas Microinformáticos y Redes</h5>
+                    <p>Instituto Pedralbes | 2023 - 2025</p>
+                </div>
+
+                <div class="mb-0">
+                    <h5 class="fw-bold mb-1">Certificado de Educación Secundaria Obligatoria (ESO)</h5>
+                    <p>Instituto Vall d'Hebron | 2019 - 2023</p>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -35,15 +50,83 @@
     <section class="row my-4">
         <div class="col-12">
             <h2 class="fw-bold mb-4">Experiencia</h2>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse autem dolor aut placeat, in iusto repudiandae eaque corporis distinctio at voluptates quae accusantium blanditiis deleniti fuga eligendi omnis vero. Qui!
+                <div class="ms-3">
+                    <div class="mb-0">
+                    <h5 class="fw-bold mb-1">Prácticas en Informática y Desarrollo Web</h5>
+                        <p>El Taller 3D | Octubre 2024 – Abril 2025</p>
+                        <div class="mb-3">
+                            <span class="badge bg-light text-dark border me-1">Desarrollo Web</span>
+                            <span class="badge bg-light text-dark border me-1">Soporte Técnico</span>
+                            <span class="badge bg-light text-dark border me-1">Resolución de Problemas</span>
+                        </div>
+                        
+                        <ul class="mb-2 ps-3 small">
+                            <li>Adquisición de amplios conocimientos en el ámbito de la informática.</li>
+                            <li>Desarrollo y optimización de páginas web.</li>
+                            <li>Adaptación y familiarización con el entorno laboral real.</li>
+                        </ul>
+                    </div>
+                </div>
         </div>
     </section>
     
     <!-- Sección Habilidades -->
     <section class="row my-4">
-        <div class="col-12">
+        <div class="col-12 mb-3">
             <h2 class="fw-bold mb-4">Habilidades</h2>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur labore sunt rerum quam incidunt quis officia tenetur, saepe vel quasi deserunt dolorum recusandae molestiae perspiciatis beatae porro voluptatum harum at!
+                <div class="row ms-3">
+
+                    <div class="col-md-6">
+
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="bg-primary border rounded d-flex align-items-center justify-content-center text-white" style="width: 40px; height: 40px;">
+                                <i class="bi bi-filetype-html fs-4"></i>
+                            </div>
+                            <span class="ms-3 fw-semibold">HTML</span>
+                        </div>
+
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="bg-primary border rounded d-flex align-items-center justify-content-center text-white" style="width: 40px; height: 40px;">
+                                <i class="bi bi-filetype-css fs-4"></i>
+                            </div>
+                            <span class="ms-3 fw-semibold">CSS</span>
+                        </div>
+
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="bg-primary border rounded d-flex align-items-center justify-content-center text-white" style="width: 40px; height: 40px;">
+                                <i class="bi bi-filetype-java fs-4"></i>
+                            </div>
+                            <span class="ms-3 fw-semibold">Java</span>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-6">
+
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="bg-primary border rounded d-flex align-items-center justify-content-center text-white" style="width: 40px; height: 40px;">
+                                <i class="bi bi-filetype-sql fs-4"></i>
+                            </div>
+                            <span class="ms-3 fw-semibold">SQL</span>
+                        </div>
+
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="bg-primary border rounded d-flex align-items-center justify-content-center text-white" style="width: 40px; height: 40px;">
+                                <i class="bi bi-filetype-js fs-4"></i>
+                            </div>
+                            <span class="ms-3 fw-semibold">JavaScript</span>
+                        </div>
+
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="bg-primary border rounded d-flex align-items-center justify-content-center text-white" style="width: 40px; height: 40px;">
+                                <i class="bi bi-wordpress fs-4"></i>
+                            </div>
+                            <span class="ms-3 fw-semibold">Wordpress</span>
+                        </div>
+
+                    </div>
+
+            </div>   
         </div>
     </section>
 
