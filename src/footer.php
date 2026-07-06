@@ -6,7 +6,7 @@
             <div class="col-md-8">
                 <h3 class="fw-bold">¿Tienes un proyecto en mente?</h3>
                 <p class="text-muted">Estoy disponible para prácticas, ofertas de empleo o proyectos. ¡Hablemos!</p>
-                <a href="contacto.php" target="_blank" class="btn btn-primary btn-lg px-4 shadow-sm">Contactar conmigo</a>
+                <a href="src/contacto.php" class="btn btn-primary btn-lg px-4 shadow-sm">Contactar conmigo</a>
             </div>
         </div>
 

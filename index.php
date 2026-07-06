@@ -1,6 +1,6 @@
 <?php include 'src/header.php'; ?>
 
-<main class="container my-5">
+<main class="container-fluid my-5" style="padding-left: 8vw; padding-right: 8vw;">
     
     <!-- Sección Acerca de mí -->
     <section class="row align-items-center my-5">
