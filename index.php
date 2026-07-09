@@ -131,9 +131,47 @@
     </section>
 
     <!-- Sección Mis Proyectos -->
-    <section class="row my-4">
-        <div class="col-12 text-center">
-            <h2 class="fw-bold mb-4">Mis Proyectos</h2>
+    <section class="row my-5 justify-content-center">
+    
+        <div class="col-12 text-center mb-4">
+            <h2 class="fw-bold">Mis Proyectos</h2>
+        </div>
+
+        <div class="col-12 col-md-5 mb-4">
+            
+            <div id="carouselProyectos" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+                
+                <div class="carousel-inner">
+                    
+                    <div class="carousel-item active">
+                        <div class="bg-secondary-subtle rounded-3 p-5 text-center d-flex align-items-center justify-content-center shadow-sm" style="min-height: 300px;">
+                            <h4 class="fw-bold m-0">Proyecto 1</h4>
+                        </div>
+                    </div>
+                    
+                    <div class="carousel-item">
+                        <div class="bg-secondary-subtle rounded-3 p-5 text-center d-flex align-items-center justify-content-center shadow-sm" style="min-height: 300px;">
+                            <h4 class="fw-bold m-0">Proyecto 2</h4>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="bg-secondary-subtle rounded-3 p-5 text-center d-flex align-items-center justify-content-center shadow-sm" style="min-height: 300px;">
+                            <h4 class="fw-bold m-0">Proyecto 3</h4>
+                        </div>
+                    </div>
+                    
+                </div> <button class="carousel-control-prev" type="button" data-bs-target="#carouselProyectos" data-bs-slide="prev" style="left: -50px; width: auto;">
+                    <span class="carousel-control-prev-icon bg-dark rounded-circle" aria-hidden="true"></span>
+                    <span class="visually-hidden">Anterior</span>
+                </button>
+                
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselProyectos" data-bs-slide="next" style="right: -50px; width: auto;">
+                    <span class="carousel-control-next-icon bg-dark rounded-circle" aria-hidden="true"></span>
+                    <span class="visually-hidden">Siguiente</span>
+                </button>
+                
+            </div>
         </div>
     </section>
 
