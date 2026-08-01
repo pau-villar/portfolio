@@ -161,13 +161,16 @@
                         </div>
                     </div>
                     
-                </div> <button class="carousel-control-prev" type="button" data-bs-target="#carouselProyectos" data-bs-slide="prev" style="left: -50px; width: auto;">
-                    <span class="carousel-control-prev-icon bg-dark rounded-circle" aria-hidden="true"></span>
+                </div> 
+
+                <!-- Botones del carousel -->
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselProyectos" data-bs-slide="prev" style="left: -50px; width: auto;">
+                    <span class="carousel-control-prev-icon bg-primary rounded-circle" aria-hidden="true"></span>
                     <span class="visually-hidden">Anterior</span>
                 </button>
                 
                 <button class="carousel-control-next" type="button" data-bs-target="#carouselProyectos" data-bs-slide="next" style="right: -50px; width: auto;">
-                    <span class="carousel-control-next-icon bg-dark rounded-circle" aria-hidden="true"></span>
+                    <span class="carousel-control-next-icon bg-primary rounded-circle" aria-hidden="true"></span>
                     <span class="visually-hidden">Siguiente</span>
                 </button>
                 
