@@ -1,5 +1,5 @@
-<footer class="bg-light text-center text-dark pt-5 pb-4 mt-auto border-top">
-    <div class="container">
+<footer class="bg-dark-subtle text-center text-dark pt-5 pb-4 mt-auto border-top">
+    <div class="container ">
 
         <?php if (!isset($pagina_actual) || $pagina_actual !== 'contacto'): ?>
             <!-- Contactar -->

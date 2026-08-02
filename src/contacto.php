@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<main class="container-fluid my-5" style="padding-left: 8vw; padding-right: 8vw;">
+<main class="container-fluid my-5 py-1" style="padding-left: 8vw; padding-right: 8vw;">
     
     <div class="row justify-content-center">
         <div class="col-12 col-md-8 col-lg-6">
@@ -17,6 +17,11 @@
                     <div class="mb-3">
                         <label for="correo" class="form-label fw-bold">Correo</label>
                         <input type="email" id="correo" name="correo" class="form-control" placeholder="nombre@correo.com">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="asunto" class="form-label fw-bold">Asunto</label>
+                        <input type="text" id="asunto" name="asunto" class="form-control" placeholder="Motivo del mensaje">
                     </div>
                     
                     <div class="mb-4">
