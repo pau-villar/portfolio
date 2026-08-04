@@ -8,8 +8,10 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="/css/style.css">
-</head>
-<body >
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/assets/code-slash.svg">
+<body class="d-flex flex-column min-vh-100">
 
 <header class="bg-dark navbar-dark shadow-sm">
     <div class="container-fluid px-5 d-flex justify-content-between align-items-center py-3">

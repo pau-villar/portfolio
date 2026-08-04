@@ -3,21 +3,34 @@
 <main class="container-fluid my-5" style="padding-left: 8vw; padding-right: 8vw;">
     
     <!-- Sección Acerca de mí -->
-    <section class="row align-items-center my-5">
+    <section class="row align-items-center justify-content-center my-5">
 
         <!-- Columna Izquierda -->
         <div class="col-12 col-md-4 text-center mb-4 mb-md-0">
-            <img src="assets/img_curriculum.png" alt="Foto de Pau Villar Soria" class="img-fluid rounded bg-secondary-subtle" style="width: 100%; max-width: 300px; height: 300px; object-fit: cover;">
+            <img src="assets/img_curriculum.png" alt="Foto de Pau Villar Soria" class="img-fluid rounded-4 bg-secondary-subtle" style="width: 100%; max-width: 300px; height: 300px; object-fit: cover;">
         </div>
         
         <!-- Columna Derecha -->
-        <div class="col-12 col-md-8">
-            <h2 class="fw-bold mb-3">Pau Villar Soria</h2>
-            <p class="lead">Estudiante de Grado Superior DAW</p>
-            <p><strong>Gmail:</strong> pauvilly@gmail.com</p>
-            <p><strong>Ubicación:</strong> Barcelona, España</p>
-            <p><strong>Disponibilidad:</strong> Buscando prácticas / Disponible para proyectos</p>
+        <div class="col-12 col-md-8 ">
+            <h1 class="fw-bold mb-1 display-6">Pau Villar Soria</h1>
+            <p class="lead text-primary fw-medium mb-3">Estudiante de Grado Superior DAW</p>
 
+            <div class="d-flex flex-column gap-2">
+                <div>
+                    <strong>✉️ Gmail:</strong> 
+                    <a href="mailto:pauvilly@gmail.com" class="text-decoration-none ms-1 text-primary">pauvilly@gmail.com</a>
+                </div>
+
+                <div>
+                    <strong>📍 Ubicación:</strong> 
+                    <span class="ms-1">Barcelona, España</span>
+                </div>
+
+                <div>
+                    <strong>💼 Disponibilidad:</strong> 
+                    <span class="badge text-bg-success ms-1">Buscando prácticas</span>
+                </div>
+            </div>
         </div>
     </section>
 

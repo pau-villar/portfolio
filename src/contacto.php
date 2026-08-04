@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<main class="container-fluid my-5 py-1" style="padding-left: 8vw; padding-right: 8vw;">
+<main class="container-fluid my-5 py-1 flex-grow-1" style="padding-left: 8vw; padding-right: 8vw;">
     
     <div class="row justify-content-center">
         <div class="col-12 col-md-8 col-lg-6">
@@ -37,7 +37,6 @@
 
         </div>
     </div>
-                
     <div class="col-md-8 mt-4">
         <a href="../index.php" class="btn btn-primary btn-lg px-4 shadow-sm ">Volver</a>
     </div>
