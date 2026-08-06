@@ -1,0 +1,9 @@
+/* hover links del footer */
+.link-muted-hover {
+    color: #6c757d;
+    transition: color 0.2s ease-in-out;
+}
+
+.link-muted-hover:hover {
+    color: #212529;
+}

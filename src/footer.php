@@ -20,8 +20,8 @@
                 <small class="text-muted">&copy; <?php echo date('Y'); ?> Pau Villar Soria. Todos los derechos reservados.</small>
             </div>
             <div class="col-md-6 text-center text-md-end">
-                <a href="https://github.com/pau-villar" target="_blank" class="text-muted small me-3 text-decoration-none">GitHub</a>
-                <a href="https://www.linkedin.com/in/pau-villar-soria/" target="_blank" class="text-muted small text-decoration-none">LinkedIn</a>
+                <a href="https://github.com/pau-villar" target="_blank" class="link-muted-hover small me-3 text-decoration-none">GitHub</a>
+                <a href="https://www.linkedin.com/in/pau-villar-soria/" target="_blank" class="link-muted-hover small text-decoration-none">LinkedIn</a>
             </div>
         </div>
     </div>
