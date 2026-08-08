@@ -21,8 +21,8 @@
         </a>
 
         <div class="d-flex align-items-center gap-3">
-            <a href="https://github.com/tu-usuario" target="_blank" class="link-light link-opacity-50 link-opacity-100-hover text-decoration-none small me-3">GitHub</a>
-            <a href="https://linkedin.com/in/tu-usuario" target="_blank" class="link-light link-opacity-50 link-opacity-100-hover text-decoration-none small">LinkedIn</a>
+            <a href="https://github.com/pau-villar" target="_blank" class="link-light link-opacity-50 link-opacity-100-hover text-decoration-none small me-3">GitHub</a>
+            <a href="https://www.linkedin.com/in/pau-villar-soria/" target="_blank" class="link-light link-opacity-50 link-opacity-100-hover text-decoration-none small">LinkedIn</a>
         </div>
     </div>
 </header>

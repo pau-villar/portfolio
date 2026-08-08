@@ -37,49 +37,82 @@
     <hr class="my-5 opacity-25">
  
     <!-- Sección Formación -->
-    <section class="row my-4">
+    <section class="row my-5">
         <div class="col-12">
             <h2 class="fw-bold mb-4">Formación</h2>
+
             <div class="ms-3">
+                <!-- DAW -->
                 <div class="mb-4">
-                    <h5 class="fw-bold mb-1">Cursando Grado Superior en Desarrollo de Aplicaciones Webs</h5>
-                    <p>Instituto Pedralbes | 2025 - actual</p>
+                    <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
+                        <h5 class="fw-bold mb-0">Grado Superior en Desarrollo de Aplicaciones Webs (DAW)</h5>
+                        <span class="badge bg-primary-subtle text-primary border border-primary-subtle rounded-pill">
+                            2025 - Actualidad
+                        </span>
+                    </div>
+                    <p class="text-muted small mb-0">
+                        <i class="bi bi-building me-1"></i>Instituto Pedralbes
+                    </p>
                 </div>
 
+                <!-- SMR -->
                 <div class="mb-4">
-                    <h5 class="fw-bold mb-1">Certificado de Grado Medio en Sistemas Microinformáticos y Redes</h5>
-                    <p>Instituto Pedralbes | 2023 - 2025</p>
+                    <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
+                        <h5 class="fw-bold mb-0">Certificado de Grado Medio en Sistemas Microinformáticos y Redes (SMR)</h5>
+                        <span class="badge bg-light text-dark border rounded-pill">
+                            2023 - 2025
+                        </span>
+                    </div>
+                    <p class="text-muted small mb-0">
+                        <i class="bi bi-building me-1"></i>Instituto Pedralbes
+                    </p>
                 </div>
 
+                <!-- ESO -->
                 <div class="mb-0">
-                    <h5 class="fw-bold mb-1">Certificado de Educación Secundaria Obligatoria (ESO)</h5>
-                    <p>Instituto Vall d'Hebron | 2019 - 2023</p>
+                    <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
+                        <h5 class="fw-bold mb-0">Educación Secundaria Obligatoria (ESO)</h5>
+                        <span class="badge bg-light text-dark border rounded-pill">
+                            2019 - 2023
+                        </span>
+                    </div>
+                    <p class="text-muted small mb-0">
+                        <i class="bi bi-building me-1"></i>Instituto Vall d'Hebron
+                    </p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Sección Experiencia -->
-    <section class="row my-4">
+    <section class="row my-5">
         <div class="col-12">
             <h2 class="fw-bold mb-4">Experiencia</h2>
-                <div class="ms-3">
-                    <div class="mb-0">
-                    <h5 class="fw-bold mb-1">Prácticas en Informática y Desarrollo Web</h5>
-                        <p>El Taller 3D | Octubre 2024 – Abril 2025</p>
-                        <div class="mb-3">
-                            <span class="badge bg-light text-dark border me-1">Desarrollo Web</span>
-                            <span class="badge bg-light text-dark border me-1">Soporte Técnico</span>
-                            <span class="badge bg-light text-dark border me-1">Resolución de Problemas</span>
-                        </div>
-                        
-                        <ul class="mb-2 ps-3 small">
-                            <li>Adquisición de amplios conocimientos en el ámbito de la informática.</li>
-                            <li>Desarrollo y optimización de páginas web.</li>
-                            <li>Adaptación y familiarización con el entorno laboral real.</li>
-                        </ul>
+
+            <div class="ms-3">
+                <div class="mb-0">
+                    <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-1">
+                        <h5 class="fw-bold mb-0">Prácticas en Informática y Desarrollo Web</h5>
+                        <span class="badge bg-primary-subtle text-primary border border-primary-subtle rounded-pill">
+                            Oct. 2024 – Abr. 2025
+                        </span>
                     </div>
+
+                    <p class="text-muted small mb-2">El Taller 3D</p>
+
+                    <div class="mb-3">
+                        <span class="badge bg-light text-dark border me-1"><i class="bi bi-code-slash me-1"></i>Desarrollo Web</span>
+                        <span class="badge bg-light text-dark border me-1"><i class="bi bi-tools me-1"></i>Soporte Técnico</span>
+                        <span class="badge bg-light text-dark border me-1"><i class="bi bi-cpu me-1"></i>Resolución de Problemas</span>
+                    </div>
+
+                    <ul class="mb-0 ps-3 small text-muted">
+                        <li>Desarrollo y maquetación de páginas web <em>responsive</em>, aplicando buenas prácticas de HTML, CSS y JavaScript.</li>
+                        <li>Apoyo en tareas de soporte técnico y asistencia básica a usuarios.</li>
+                        <li>Optimización de código y componentes web, mejorando la usabilidad y la experiencia de usuario.</li>
+                    </ul>
                 </div>
+            </div>
         </div>
     </section>
     
